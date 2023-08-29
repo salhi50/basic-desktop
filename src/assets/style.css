@@ -1,0 +1,8 @@
+.context-menu {
+  max-height: 70vh;
+  max-width: 90vw;
+  min-width: 10rem;
+  width: 12rem;
+  overflow-y: auto;
+  position: absolute;
+}

@@ -1,0 +1,32 @@
+{
+  "printWidth": 100,
+  "tabWidth": 2,
+  "useTabs": false,
+  "semi": true,
+  "singleQuote": false,
+  "quoteProps": "consistent",
+  "jsxSingleQuote": false,
+  "trailingComma": "all",
+  "bracketSpacing": true,
+  "bracketSameLine": false,
+  "arrowParens": "always",
+  "singleAttributePerLine": true,
+	"overrides": [
+    {
+      "files": ["*.js"],
+      "options": {}
+    },
+    {
+      "files": ["*.ts"],
+      "options": {}
+    },
+    {
+      "files": ["*.jsx"],
+      "options": {}
+    },
+    {
+      "files": ["*.tsx"],
+      "options": {}
+    }
+  ]
+}
